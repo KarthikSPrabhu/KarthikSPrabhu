@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/KarthikSPrabhu/KarthikSPrabhu/main/banner.png)
 
-# 👋 Hi, I'm Karthik Prabhu
+# 👋 Hi, I'm Karthik S Prabhu
 
 🚀 **IoT • Edge AI • Full Stack Engineer**  
 🎓 B.Tech CSE (AI & ML)
@@ -21,20 +21,20 @@ I design and build **intelligent, end-to-end systems** that combine **IoT, AI/ML
 
 ## ⚡ Tech Stack
 
-**💻 Frontend**
+**💻 Frontend**  
 React • HTML • CSS • JavaScript  
 
-**⚙️ Backend**
+**⚙️ Backend**  
 Node.js • Express • Flask • Django • Spring Boot  
 
-**🗄️ Databases**
+**🗄️ Databases**  
 MongoDB • MySQL • PostgreSQL  
 
-**🤖 AI / ML**
+**🤖 AI / ML**  
 Python • NumPy • Pandas • Scikit-Learn  
 Exploring **Generative AI & model-driven systems**  
 
-**🔌 IoT & Edge Systems**
+**🔌 IoT & Edge Systems**  
 ESP32 • Sensors • Embedded Systems  
 Blynk • Real-time automation systems  
 
@@ -42,7 +42,7 @@ Blynk • Real-time automation systems
 
 ## 🚀 Featured Projects
 
-### 🔹 Smart Hybrid Home Automation System
+### 🔹 Smart Hybrid Home Automation System  
 **ESP32 + Blynk + Sensor Integration**
 
 - Real-time **device control & monitoring**
@@ -52,7 +52,7 @@ Blynk • Real-time automation systems
 
 ---
 
-### 🔹 GreenSteps — Eco Impact Tracker
+### 🔹 GreenSteps — Eco Impact Tracker  
 **Full Stack Web Application**
 
 - Tracks **carbon footprint & sustainability habits**
@@ -61,7 +61,7 @@ Blynk • Real-time automation systems
 
 ---
 
-### 🔹 Data Structures & Algorithms (C)
+### 🔹 Data Structures & Algorithms (C)  
 **Core Systems Programming**
 
 - Implementation of **fundamental DSA concepts**
@@ -69,9 +69,16 @@ Blynk • Real-time automation systems
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikSPrabhu&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikSPrabhu&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KarthikSPrabhu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikSPrabhu&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
