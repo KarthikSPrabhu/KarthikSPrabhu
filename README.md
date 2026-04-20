@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Karthik Prabhu
 
-<!--
-**KarthikSPrabhu/KarthikSPrabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 IoT • Edge AI • Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Passionate about IoT, TinyML & Edge AI  
+- Building intelligent systems using AI + software  
+- Strong in MERN + Python frameworks  
+
+---
+
+## 🚀 Projects
+- Smart Home Automation (ESP32 + Blynk)  
+- GreenSteps (Eco Tracker)  
+- DSA Project (C)  
+
+---
+
+## 🎯 Current Focus
+- Edge AI / TinyML  
+- AI + IoT integration  
